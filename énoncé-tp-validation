@@ -1,0 +1,37 @@
+Titre du TP : Création d'une Page Web pour le Festival Virtuel de Musique 2023
+
+Objectif : Développer une page web HTML pour le Festival Virtuel de Musique 2023 en utilisant les balises HTML de base, des liens de navigation, des listes, des tableaux, et un formulaire.
+
+Instructions :
+
+Mise en Place de la Structure de Base :
+
+Créer un document HTML5.
+Définir la langue de la page en français.
+Spécifier l'encodage des caractères en UTF-8.
+Ajouter le titre d'onglet suivant : "Festival Virtuel de Musique 2023".
+
+Structurer vore body avec la sémantique HTML5.
+
+En-tête :
+Ajouter une barre de navigation contenant les liens pour les sections "Accueil", "Artistes", "Programme", "Billets", et "Contact" (ne pas créer les pages).
+
+Section Principale :
+Créer deux sections.
+Dans la première section, ajouter un article avec un sous-titre "Concept du Festival" et un paragraphe expliquant brièvement le festival.
+Ajouter une liste non ordonnée avec les noms de cinq artistes (de "Artiste A" à "Artiste E").
+Créer un tableau avec trois colonnes "Heure", "Artiste", et "Scène". Remplir la première ligne avec les détails d'un artiste et laisser une note pour ajouter d'autres lignes similaires.
+
+Formulaire de Contact :
+Dans la deuxième section, insérer un formulaire.
+Ajouter des champs pour le nom, l'email, le sujet, et un message, chacun avec des étiquettes (label) et des champs de saisie correspondants.
+Inclure une case à cocher pour la conformité RGPD avec une étiquette explicative.
+Ajouter un bouton de soumission avec le texte "Envoyer".
+
+Pied de Page :
+Créer un pied de page contenant un paragraphe avec le texte "© 2023 Festival Virtuel de Musique".
+
+Consignes Complémentaires :
+Commenter le code de manière appropriée pour une meilleure compréhension.
+Respecter les bonnes pratiques de codage HTML.
+Utiliser le temps qu'il vous reste pour ajouter du style CSS afin d'embellir votre page.
